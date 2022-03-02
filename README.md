@@ -1,4 +1,5 @@
 # My-repo
-my first repository
-am adding some changes to this branch for learning purposes
-
+my first example repository
+adding and removing some lines on this branch
+line number4
+line number5
